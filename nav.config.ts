@@ -7,7 +7,7 @@ const c: IConfig = {
 
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/sunzhangchang/nav',
 
   // Deployment branch name
   // 部署分支
@@ -33,11 +33,11 @@ const c: IConfig = {
 
   // Site title
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '氰化导航 - 精选实用导航网站',
 
   // Site description
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '氰化导航 - 精选实用导航网站',
 
   // Site keywords
   // 网站关键字
